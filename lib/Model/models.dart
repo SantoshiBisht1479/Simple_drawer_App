@@ -1,0 +1,1 @@
+class explore_model {}
